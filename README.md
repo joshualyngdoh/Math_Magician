@@ -32,11 +32,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To-Do-List] <a name="about-project"></a>
+# 📖 [Math-Magician] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[]** 
+**[Math-Magician]** is a Single Page App (SPA) that allows the users to make simple math calculations and read a random math related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
