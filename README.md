@@ -50,6 +50,7 @@
 - **[Display Home Page]**
 - **[Add UI design]**
 - **[Add functionality]**
+- **[Add Routes and styles]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
