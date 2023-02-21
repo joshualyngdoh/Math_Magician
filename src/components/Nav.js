@@ -1,5 +1,4 @@
 import React from 'react';
-import './index.css';
 import { Link } from 'react-router-dom';
 
 function Nav() {
@@ -7,7 +6,7 @@ function Nav() {
   return (
     <nav>
       <ul className="nav-link">
-        <Link style={underLine} to="/home">
+        <Link style={underLine} to="/">
           <li>Home</li>
         </Link>
         <div className="line" />

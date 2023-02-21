@@ -1,4 +1,4 @@
-import calculate from './calculate';
+import calculate from '../../logic/calculate';
 
 describe('testing for calculate funtion', () => {
   const num = {

@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav should render correctly 1`] = `
+<nav>
+  <ul
+    className="nav-link"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "rgb(0, 132, 255)",
+        }
+      }
+    >
+      <li>
+        Home
+      </li>
+    </a>
+    <div
+      className="line"
+    />
+    <a
+      href="/calculate"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "rgb(0, 132, 255)",
+        }
+      }
+    >
+      <li>
+        Calculator
+      </li>
+    </a>
+    <div
+      className="line"
+    />
+    <a
+      href="/quote"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "rgb(0, 132, 255)",
+        }
+      }
+    >
+      <li>
+        Quotes
+      </li>
+    </a>
+  </ul>
+</nav>
+`;
