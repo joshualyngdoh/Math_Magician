@@ -5,7 +5,9 @@ exports[`Calculator should render correctly 1`] = `
   <div
     className="cal"
   >
-    <p>
+    <p
+      data-testid="result"
+    >
       0
     </p>
   </div>
