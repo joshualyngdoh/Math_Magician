@@ -17,7 +17,7 @@ function Calculator() {
   return (
     <div>
       <div className="cal">
-        <p>
+        <p data-testid="result">
           {total}
           {operation}
           {next}

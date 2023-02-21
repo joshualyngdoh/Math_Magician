@@ -1,8 +1,6 @@
-/* eslint-disable react/no-unescaped-entities */
-
 import React from 'react';
-import './index.css';
-import Calculator from './components/calculator';
+
+import Calculator from '../components/calculator';
 
 function Calculate() {
   return (
@@ -10,7 +8,7 @@ function Calculate() {
       <h1>Math Magician</h1>
       <div className="cal-body">
         <div>
-          <h2 className="cal-bodyh2">Let's do some math!</h2>
+          <h2 className="cal-bodyh2">Let`&apos;`s do some math!</h2>
         </div>
         <div className="calculator-body">
           <Calculator />
